@@ -26,7 +26,8 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1miLo6IAeP13WwVhcH00WwNZ7Qq7ucg5O/view?usp=sharing)
   
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100rav-aggarwal" alt="100rav-aggarwal" /></a> </p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100rav-aggarwal&theme=monokai" alt="100rav-aggarwal" /></a> </p>
   
 <p align="left"> <a href="https://twitter.com/souravagg01" target="blank"><img src="https://img.shields.io/twitter/follow/souravagg01?logo=twitter&style=for-the-badge" alt="souravagg01" /></a> </p>  
 
