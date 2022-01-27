@@ -54,6 +54,6 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
 <a href="https://www.codechef.com/users/sourav_agg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourav_agg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourav_agg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav_agg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/100rav_agg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="100rav_agg" height="30" width="40" /></a>
-  <a href="https://discord.gg/4312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4312" height="30" width="40" /></a>
+  <a href="https://discord.gg/#4312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4312" height="30" width="40" /></a>
   <a href="https://instagram.com/100rav_agg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="100rav_agg" height="30" width="40" /></a>
 </p>
