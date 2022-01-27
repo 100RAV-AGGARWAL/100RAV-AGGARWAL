@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sourav Aggarwal</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center"> 
+  Hi 
+  <img 
+    src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/Assets/wave.gif" width="30px">, 
+    I'm <b>Sourav Aggarwal
+</h1> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=A+passionate+Web+Developer;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rav-aggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="100rav-aggarwal" /> </p>
 
