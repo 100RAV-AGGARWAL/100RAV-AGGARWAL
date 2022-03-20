@@ -16,11 +16,11 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
   
 - 🔭 I’m currently working on [Pathlaws](https://pathlaws.com/home)
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Flutter, Python**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/100RAV-AGGARWAL)
 
-- 💬 Ask me about **Angular, JavaScript, NodeJs, MongoDB**
+- 💬 Ask me about **Angular, JavaScript, NodeJs, MongoDB, Flutter**
 
 - 📫 How to reach me: **souravagg01@gmail.com**
 
