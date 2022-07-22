@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
   
 <br>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100rav-aggarwal&theme=darkhub&rank=-?&margin-w=15" alt="100rav-aggarwal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100rav-aggarwal&theme=darkhub&rank=-?&margin-w=15" alt="100rav-aggarwal" align="center"/></a> </p>
 
 <br>
   
