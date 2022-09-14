@@ -16,7 +16,7 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
   
 - 🔭 I’ve worked on [Pathlaws](https://pathlaws.com/home), [TrackTrades](https://tracktrades.in/)
 
-- 🌱 I’m currently practicing *DSA* and exploring *Oracle Cloud Infrastructure*
+- 🌱 I’m currently practicing *DSA* and exploring *Factory Design Pattern*
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/100RAV-AGGARWAL)
 
