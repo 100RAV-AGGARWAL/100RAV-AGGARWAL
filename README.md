@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/As
 
 - 📫 How to reach me: **souravagg01@gmail.com**
 
-- 📄 You can check out my Resume [here](https://drive.google.com/file/d/1zeYUa5tWtI8hk54z4ZOre33seZN3Pbe4/view?usp=sharing)
+- 📄 You can check out my Resum [here](https://drive.google.com/file/d/1zeYUa5tWtI8hk54z4ZOre33seZN3Pbe4/view?usp=sharing)
   
 <br>
 <br>
