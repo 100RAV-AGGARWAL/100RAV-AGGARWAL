@@ -2,7 +2,7 @@
   Hi 
   <img 
     src="https://raw.githubusercontent.com/100RAV-AGGARWAL/100RAV-AGGARWAL/master/Assets/wave.gif" width="33px" height="33px">, 
-    I'm <b>Sourav 
+    I'm <b>Sourav Aggarwal
 </h1> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=blue&center=true&vCenter=true&height=60&width=1000&lines=A+passionate+Developer;An+enthusiastic+learner;)](https://git.io/typing-svg)
